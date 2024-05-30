@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @VidPiljekPiljek
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C++ and C#
